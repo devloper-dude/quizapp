@@ -144,3 +144,21 @@ body {
         transform: rotateZ(-30deg);
     }
 }
+
+@media only screen and (max-width:500px){
+
+    .hding{
+        font-size: 13px;
+    }
+
+    .box{
+        width: auto;
+        height: auto;
+    }
+    #ques{
+        font-size: 15px;
+    }
+    .box1{
+        font-size: 11px;
+    }
+}

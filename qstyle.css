@@ -20,7 +20,7 @@ body {
 
 .box {
     padding: 15px;
-    min-width: 400px;
+    min-width: 100px;
     max-width: 500px;
     height: auto;
     box-shadow: 0px 0px 12px 7px magenta;
@@ -145,20 +145,3 @@ body {
     }
 }
 
-@media only screen and (max-width:500px){
-
-    .hding{
-        font-size: 13px;
-    }
-
-    .box{
-          width: 70vw;
-        height: auto;
-    }
-    #ques{
-        font-size: 15px;
-    }
-    .box1{
-        font-size: 20px;
-    }
-}
